@@ -14,4 +14,8 @@ Những tính năng của website:
 * Các chức năng quản lý liên quan tới sản phẩm.
 * Chức năng quản lý giỏ hàng: cập nhật các mặt hàng trong giỏ người dùng.
 * Admin: Giao diện cho quản trị viên để thêm và cập nhật sản phẩm.
+## Cấu trúc dự án
+## Các bước cài đặt
+## Tài liệu tham khảo
+
 
